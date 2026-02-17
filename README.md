@@ -1,5 +1,6 @@
-📞 AstroSage Call Center Performance Analysis (Excel Dashboard)
 ![AstroSage Dashboard](cover.png)
+
+📞 AstroSage Call Center Performance Analysis (Excel Dashboard)
 
 This project presents a comprehensive Excel-based analysis of AstroSage’s call center operations, focusing on operational efficiency, customer satisfaction, and revenue performance.
 
